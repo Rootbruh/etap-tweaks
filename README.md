@@ -4,11 +4,11 @@ Fatih projesi kapsamında okullardaki akıllı tahtalara yüklenen, debian gnu/l
 
 # Gereksinimler
 ```
-git (Etap5-tweaks programını bilgisayarımıza aktarmak için kullanacağız.)
+git (Etap-tweaks programını bilgisayarımıza aktarmak için kullanacağız.)
 ```
 
 
 # İndirme
 ```bash
-$ git clone https://github.com/Rootbruh/etap5-tweaks.git
+$ git clone https://github.com/Rootbruh/etap-tweaks.git
 ```
